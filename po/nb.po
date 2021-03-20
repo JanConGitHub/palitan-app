@@ -1009,4 +1009,4 @@ msgstr "Avbryt"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/arm-linux-gnueabihf/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
-msgstr "Valutakalkulator"
+msgstr "Valuta kalkulator"
